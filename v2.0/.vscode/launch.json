@@ -12,7 +12,7 @@
             "mode": "debug",
             "host": "127.0.0.1",
             "port": 2345,
-            "program": "${fileDirname}",
+            "program": "${workspaceFolder}",
             "env": {
                 "GO111MODULE": "off",
             },
